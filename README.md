@@ -22,8 +22,10 @@ Selenium Library 4
  - pip install --upgrade robotframework-seleniumlibrary
   ```
    Baixe e mova para pasta o chromedriver [Baixe aqui](https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br)
-     ## Como rodar os testes
-    O comando: robot filename.robot
 
+## Como rodar os testes
+   ```
+    O comando: robot filename.robot
+   ```
   ## Entre em contato
    
