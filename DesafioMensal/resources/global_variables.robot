@@ -17,5 +17,14 @@ ${NIVEL_PRIVACIDADE}             Alto
 ${NIVEL_PRIVACIDADE_VALOR}       Alto
 ${CONSENTIMENTO_COLETA}   Aceito
 ${BOTAO_FINALIZAR_CADASTRO}     Finalizar Cadastro
-${MENSAGEM_SUCESSO}              Cadastro realizado com sucesso
-${MENSAGEM_ERRO}                   Preencha este campo.
+${BOTAO_CANCELAR_CADASTRO}        Cancelar
+${TITULO}                        Cadastrar Perfil de Usuário Inteligente
+
+${ID_NOME}                              //*[@id="nome"]
+${ID_DATADENASCIMENTO}                 //*[@id="dataNascimento"]
+${ID_IMPRESSÃODIGITAL}                 //*[@id="impressao-digital"] 
+${ID_PREFERENCIADENAVEGACAO}           //*[@id="preferenciasNavegacao"]
+${ID_FOTODEPERFIL}                     //*[@id="fotoPerfil"] 
+${ID_IDIOMAPORTUGUÊS}                  //*[@id="idioma"]/option[2]  
+${ID_NIVELPRIVACIDADE}                 //*[@id="privacidade"]/option[2]
+${ID_CONSENTIMENTOCOLETA}               //*[@id="consentimento"]
